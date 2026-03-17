@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Speicherorte">
+        <setting id="movies_path" type="folder" label="Pfad für Filme (.strm)" default="" />
+        <setting id="tvshows_path" type="folder" label="Pfad für Serien (.strm)" default="" />
+    </category>
+    <category label="Auto-Synchronisation">
+        <setting id="sync_enabled" type="bool" label="Auto-Sync beim Start aktivieren" default="false" />
+        <setting id="movie_bookmark_name" type="text" label="Name des Film-Ordners in Kino.pub" default="Filme" />
+        <setting id="tvshow_bookmark_name" type="text" label="Name des Serien-Ordners in Kino.pub" default="Serien" />
+    </category>
+</settings>
