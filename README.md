@@ -1,1 +1,1 @@
-create strm files from kino.pub addon, for kodi BibliothekI creating
+create strm files from kino.pub addon, for kodi Bibliothek
